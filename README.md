@@ -1,6 +1,6 @@
 # Python-Multi-Calculator-PyQt5
 
-<img src="https://live.staticflickr.com/65535/52895762697_0aa1d4a44a_b.jpg" alt="thumbnail" class="center">
+<img src="https://live.staticflickr.com/65535/52870008440_c092deb9fc_z.jpg" alt="thumbnail" class="center">
 
 > - [My Calculater Video](https://www.instagram.com/reel/CrdbkbHICq7/?utm_source=ig_web_copy_link) <br/>
 
